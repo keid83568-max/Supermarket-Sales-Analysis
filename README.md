@@ -14,4 +14,5 @@ This analysis aims to monitor supermarket sales trends, evaluate branch performa
 * **Data Source:** Supermarket sales historical record.
 
 ## 🖼️ Dashboard Preview
-![DASH BOARD 2](https://github.com/user-attachments/assets/fc3f3967-720c-4905-[supermarket_sales - Sheet1.csv](https://github.com/user-
+![2 Dash](https://github.com/user-attachments/assets/42044b23-4fcf-462d-92e8-e9f3277d0f3a)
+![DASH BOARD 2](https://github.com/user-attachments/assets/e4693ac1-eb0b-490a-92a2-296418e72613)
